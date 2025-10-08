@@ -13,6 +13,7 @@ export function openrouter(env: Record<string, string>): IChat {
   })
   r.name = 'OpenRouter'
   r.supportModels = env.OPENROUTER_MODELS?.split(',').map((it) => it.trim()) ?? [
+    'anthropic/claude-sonnet-4.5',
     'anthropic/claude-opus-4.1',
     'anthropic/claude-opus-4',
     'anthropic/claude-sonnet-4',
