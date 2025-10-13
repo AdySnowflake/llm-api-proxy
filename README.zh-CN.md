@@ -1,4 +1,4 @@
-# OpenAI API Proxy
+# LLM API Proxy
 
 ## 介绍
 

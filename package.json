@@ -1,5 +1,5 @@
 {
-  "name": "openai-api-proxy",
+  "name": "llm-api-proxy",
   "type": "module",
   "scripts": {
     "dev": "wrangler dev src/index.ts",

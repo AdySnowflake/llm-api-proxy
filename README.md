@@ -1,4 +1,8 @@
-# OpenAI API Proxy
+# Due to receiving a trademark ownership warning from OpenAI, this project and product has been renamed to LLM API Proxy. We hope you understand
+
+---
+
+# LLM API Proxy
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rxliuli)
 
