@@ -43,7 +43,7 @@
   - `VERTEX_ANTROPIC_PROJECTID`: Google Vertex AI Anthropic Project ID
 - Anthropic: 支持 Anthropic 模型，例如 `claude-3-5-sonnet-20240620`
   - `ANTROPIC_API_KEY`: Anthropic API Key
-- Google Gemini: 支持 Google Gemini 模型，例如 `gemini-1.5-flash`
+- Google Gemini: 支持 Google Gemini 模型，例如 `gemini-flash-latest`
   - `GOOGLE_GEN_AI_API_KEY`: Google Gemini API Key
 - DeepSeek: 支持 DeepSeek 模型，例如 `deepseek-chat`
   - `DEEPSEEK_API_KEY`: DeepSeek API Key

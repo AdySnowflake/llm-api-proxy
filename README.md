@@ -46,7 +46,7 @@ Environment variables
   - `VERTEX_ANTROPIC_PROJECTID`: Google Vertex AI Anthropic Project ID
 - Anthropic: Supports Anthropic models, e.g. `claude-3-5-sonnet-20240620`
   - `ANTROPIC_API_KEY`: Anthropic API Key
-- Google Gemini: Supports Google Gemini models, e.g. `gemini-1.5-flash`
+- Google Gemini: Supports Google Gemini models, e.g. `gemini-flash-latest`
   - `GOOGLE_GEN_AI_API_KEY`: Google Gemini API Key
 - DeepSeek: Supports DeepSeek models, e.g. `deepseek-chat`
   - `DEEPSEEK_API_KEY`: DeepSeek API Key
