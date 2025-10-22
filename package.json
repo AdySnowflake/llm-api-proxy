@@ -1,11 +1,12 @@
 {
-  "name": "llm-api-proxy",
+  "name": "openai-api-proxy",
   "type": "module",
   "scripts": {
     "dev": "wrangler dev src/index.ts",
     "deploy": "wrangler deploy --minify src/index.ts",
     "test": "vitest run",
-    "postinstall": "npx simple-git-hooks"
+    "postinstall": "npx simple-git-hooks",
+    "dev:ollama": "wrangler dev src/index.ts --port 11434"
   },
   "prettier": "@liuli-util/prettier-standard-config",
   "lint-staged": {
